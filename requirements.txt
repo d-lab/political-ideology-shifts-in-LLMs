@@ -1,0 +1,4 @@
+vllm==0.8.5.post1
+seaborn==0.13.2
+pyarrow
+fastparquet

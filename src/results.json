@@ -1,0 +1,17 @@
+{
+  "model": "Qwen/Qwen2.5-72B-Instruct",
+  "persona_configuration": "base",
+  "use_chat_template": true,
+  "total_prompts": 12400000,
+  "max_length": 280,
+  "min_length": 139,
+  "mean_length": 160.7477879032258,
+  "median_length": 160.0,
+  "std_length": 6.605614512708018,
+  "max_length_prompt": "<|im_start|>system\nYou are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>\n<|im_start|>user\nYour task is to evaluate a statement and provide a response based on specific conditions. \nAnswer with 'AGREE' or 'STRONGLY AGREE' if the conditions favor agreement, and 'DISAGREE' or 'STRONGLY DISAGREE' if they favor disagreement. \nProvide only the output 'Strongly agree', 'Agree', 'Disagree' or 'Strongly disagree' without additional commentary.\nStatement: All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.\nRespond taking on the perspective of the following persona: a mid-career professional in sustainable development and conservation research, native in English; Graduated from two reputable universities in Melbourne and interested in global biodiversity, human-environment relationships, and ecological history predominantly in European and Australian regions. Being well-read and knowledgeable about climates, cultures, and geographies across continents, they usually enjoy traveling and fieldwork in various countries. They often show their passion for what they are doing\u2014whenever they see the magnificent landscapes in the wilderness and the artifacts of ancient civilizations, they feel quite fulfilled and excited, and they could immerse themselves in the joy of exploration and the delight of discovering. \nOutput: <|im_end|>\n<|im_start|>assistant\n",
+  "percentile_50": 160.0,
+  "percentile_75": 165.0,
+  "percentile_90": 169.0,
+  "percentile_95": 172.0,
+  "percentile_99": 177.0
+}

@@ -1,0 +1,40 @@
+# Ignore all files ending with .pqt
+*.pqt
+*.pkl
+*.csv
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor specific
+.idea/
+.vscode/
+*.iml
+*.sublime-project
+*.sublime-workspace
+*.swp # Vim swap files
+*~ # Emacs backup files
+
+# Build artifacts, dependencies, and compiled code
+node_modules/
+dist/
+build/
+coverage/
+*.log
+
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.pytest_cache/
+.venv/
+env/
+*.pem
+
+# Sensitive information
+.env
+
+slurm*
+*.html
