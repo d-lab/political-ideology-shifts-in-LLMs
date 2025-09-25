@@ -23,7 +23,7 @@ Using **200,000 synthetic personas** from the PersonaHub dataset, we evaluated s
 ## 📂 Data & Results
 
 The datasets used and produced in this work are hosted on Zenodo:  
-[**Zenodo Repository — Data & Results**](ZENODO_URL_PLACEHOLDER)
+[**Zenodo Repository — Data & Results**](https://zenodo.org/records/16869784)
 
 Download and unzip:
 
